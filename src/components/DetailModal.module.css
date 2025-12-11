@@ -47,7 +47,7 @@
   align-items: flex-start;
   padding: 32px 40px;
   border-bottom: 1px solid #f1f3f5;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, #a2b2f9 0%, #8f70ae 100%);
   color: white;
 }
 
@@ -57,7 +57,7 @@
 
 .modalTitle {
   font-size: 28px;
-  font-weight: 800;
+  font-weight: 600;
   margin: 0 0 16px 0;
   color: white;
   letter-spacing: -0.5px;
@@ -139,15 +139,15 @@
 }
 
 .titleText {
-  font-size: 24px;
-  font-weight: 700;
+  font-size: 20px;
+  font-weight: 600;
   color: #2d3436;
   line-height: 1.4;
   margin: 0;
   padding: 24px;
   background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
   border-radius: 16px;
-  border-left: 6px solid #667eea;
+  border-left: 3px solid #667eea;
 }
 
 .bodyContainer {
