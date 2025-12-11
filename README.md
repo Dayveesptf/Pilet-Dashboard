@@ -34,6 +34,10 @@ A professional microfrontend dashboard module built with React, TypeScript, and 
 ## Installation
 
 ```bash
+# Clone the Repository
+git clone https://github.com/Dayveesptf/Pilet-Dashboard.git
+cd dashboard-pilet
+
 # Install Piral CLI globally
 npm install -g piral-cli
 
